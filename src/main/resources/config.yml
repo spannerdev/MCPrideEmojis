@@ -1,0 +1,37 @@
+prides:
+  gay:
+    aliases:
+    - ':gay_pride:'
+    - ':lgbt_pride:'
+    - ':pride:'
+    - ':gay:'
+    - ':lgbt:'
+    unicode: 
+  trans:
+    aliases:
+    - ':trans_pride:'
+    - ':trans:'
+    unicode: 
+  nb:
+    aliases:
+    - ':nb_pride:'
+    - ':nonbinary_pride:'
+    - ':non-binary_pride:'
+    - ':enby_pride:'
+    - ':nb:'
+    - ':nonbinary:'
+    - ':non-binary:'
+    - ':enby:'
+    unicode: 
+  lesbian:
+    aliases:
+    - ':lesbian_pride:'
+    - ':lesbian:'
+    unicode: 
+  bi:
+    aliases:
+    - ':bi_pride:'
+    - ':bisexual_pride:'
+    - ':bi:'
+    - ':bisexual:'
+    unicode: 
