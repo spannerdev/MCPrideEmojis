@@ -1,15 +1,18 @@
 prides:
-  gay:
+  lgbt:
     aliases:
-    - ':gay_pride:'
     - ':lgbt_pride:'
     - ':pride:'
-    - ':gay:'
+    - ':pride_flag:'
     - ':lgbt:'
     unicode: 
   trans:
     aliases:
+    - ':transgender:'
+    - ':transgender_pride:'
+    - ':transgender_flag:'
     - ':trans_pride:'
+    - ':trans_flag:'
     - ':trans:'
     unicode: 
   nb:
@@ -18,6 +21,10 @@ prides:
     - ':nonbinary_pride:'
     - ':non-binary_pride:'
     - ':enby_pride:'
+    - ':nb_flag:'
+    - ':nonbinary_flag:'
+    - ':non-binary_flag:'
+    - ':enby_flag:'
     - ':nb:'
     - ':nonbinary:'
     - ':non-binary:'
@@ -27,11 +34,78 @@ prides:
     aliases:
     - ':lesbian_pride:'
     - ':lesbian:'
+    - ':lesbian_flag:'
     unicode: 
   bi:
     aliases:
     - ':bi_pride:'
     - ':bisexual_pride:'
+    - ':bi_flag:'
+    - ':bisexual_flag:'
     - ':bi:'
     - ':bisexual:'
     unicode: 
+  pan:
+    aliases:
+    - ':pan:'
+    - ':pansexual:'
+    - ':pansexual_pride:'
+    - ':pan_pride:'
+    - ':pansexual_flag:'
+    - ':pan_flag:'
+    unicode: 
+  ace:
+    aliases:
+    - ':ace:'
+    - ':asexual:'
+    - ':ace_flag:'
+    - ':asexual_flag:'
+    - ':ace_pride:'
+    - ':asexual_pride:'
+    unicode: 
+  gay:
+    aliases:
+    - ':gay:'
+    - ':gay_pride:'
+    - ':gay_flag:'
+    unicode: 
+  sapphic:
+    aliases:
+    - ':sapphic:'
+    - ':sapphic_pride:'
+    - ':sapphic_flag:'
+    unicode: 
+  achillean:
+    aliases:
+    - ':achillean:'
+    - ':achillean_pride:'
+    - ':achillean_flag:'
+    unicode: 
+  sheher:
+    aliases:
+    - ':sheher:'
+    unicode: 
+  hehim:
+    aliases:
+    - ':hehim:'
+    unicode: 
+  ask:
+    aliases:
+    - ':ask:'
+    unicode: 
+  any:
+    aliases:
+    - ':any:'
+    unicode: 
+  theythem:
+    aliases:
+    - ':theythem:'
+    unicode: 
+  shethey:
+    aliases:
+    - ':shethey:'
+    unicode: 
+  hethey:
+    aliases:
+    - ':hethey:'
+    unicode: 
