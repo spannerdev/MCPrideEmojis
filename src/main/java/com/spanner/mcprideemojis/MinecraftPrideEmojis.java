@@ -26,7 +26,6 @@ public class MinecraftPrideEmojis extends JavaPlugin {
 			p.aliases = als.toArray(as);
 			p.unicode = config.getString("prides."+pride+".unicode");
 			prides.add(p);
-			System.out.println("aa");
 		}
 		
 		Bukkit.getPluginManager().registerEvents(new EventListener(this), this);
