@@ -63,6 +63,15 @@ prides:
     - ':ace_pride:'
     - ':asexual_pride:'
     unicode: 
+  aro:
+    aliases:
+    - ':aro:'
+    - ':aromantic:'
+    - ':aro_flag:'
+    - ':aromantic_flag:'
+    - ':aro_pride:'
+    - ':aromantic_pride:'
+    unicode: 
   gay:
     aliases:
     - ':gay:'
